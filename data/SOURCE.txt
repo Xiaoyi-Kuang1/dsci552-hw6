@@ -1,0 +1,2 @@
+APS Failure at Scania Trucks. Scania CV AB (2016). UCI Machine Learning Repository. https://doi.org/10.24432/C51S51
+Original data files and their copyright notices are unchanged.
